@@ -1,20 +1,33 @@
-*{
+* {
     margin: 0;
     padding: 0;
+
 }
 
-#logo{
+body {
+    font-weight: 500;
+}
+
+
+
+#logo {
     background-image: url(./assets/tesla-seeklogo.com.svg);
     background-repeat: no-repeat;
     width: 150px;
     background-position: center;
     background-size: 80%;
     height: 40px;
-    margin-right: -200px;
 }
 
-#conta{
-    border: 1px solid red;
-    
+ul li a {
+    color: black;
+}
+
+ul li a:hover {
+    background-color: transparent;
+    opacity: 10;
+    border-radius: 12px;
+    opacity: 10;
+    color: black;
 }
 
