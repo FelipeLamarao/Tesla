@@ -1,12 +1,23 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;    
+}
 
+#hero{
+    width: 100%;
+    height:100vh;
+    background-image: url(./assets/M3-Homepage-D.jpg);
+    background-position: center;
+    background-size: cover;
 }
 
 body {
-    font-weight: 500;
+    font-size: 18px;
+    font-weight: 550;    
 }
+
+
 
 
 
