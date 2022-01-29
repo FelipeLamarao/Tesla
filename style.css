@@ -17,10 +17,6 @@ body {
     font-weight: 550;    
 }
 
-
-
-
-
 #logo {
     background-image: url(./assets/tesla-seeklogo.com.svg);
     background-repeat: no-repeat;
@@ -42,3 +38,23 @@ ul li a:hover {
     color: black;
 }
 
+#title {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    justify-content: center;
+    
+}
+
+#subtitle {
+    position: absolute;
+    top: 27%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: normal;
+}
