@@ -31,11 +31,12 @@ ul li a {
 }
 
 ul li a:hover {
-    background-color: transparent;
-    opacity: 10;
-    border-radius: 12px;
-    opacity: 10;
+    background: #0000001c;
+    border-radius: 1.0rem;
     color: black;
+    
+    
+    
 }
 
 #title {
